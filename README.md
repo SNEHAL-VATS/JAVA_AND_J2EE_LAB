@@ -71,7 +71,7 @@ Few questions from java lab and tutorial
 
 6. Create a Servlet to file IT returns that accepts personal information, salary information
     and Tax deduction details from the user. Write the information into a file. Accept the
-    name of the person and display in on the page. (This code is in the "sneha" file.
+    name of the person and display in on the page. (This code is in the "sneha" file).
 
 7. Create a servlet that accepts patient information in a hospital such as patient id, patient
     name, and age, date of admission, cause of admission, doctor diagnosed, and treatment
